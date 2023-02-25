@@ -1,17 +1,4 @@
-# Chess Game With Typescript
-
-```sh
-├── app/
-│ └── components/
-│ │ └── Table.ts
-│ └── core/
-│ │ └── Game.ts
-│ └── index.ts
-├── .gitignore
-├── package.json
-├── tsconfig.json
-└── README.md
-```
+# Example With Typescript
 
 | app         | host      | port |
 | ----------- | --------- | ---- |
